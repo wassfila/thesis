@@ -1,6 +1,8 @@
 thesis
 ======
 
-the content of my thesis report and presentations
+Presentation in English
+http://www.slideshare.net/wassimfilali/these-soutenance-presenteeenglish
 
-documents will be public once the thesis will be presented - mid 2013
+Report in French
+https://tel.archives-ouvertes.fr/tel-01137267/document
